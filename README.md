@@ -8,4 +8,4 @@ Hi there! This is Cubik65536's Home Page. You can get access to it via https://w
 | ------ | ---------- | ------- |
 | [Alex Chi (GitHub@skyzh)](https://github.com/skyzh/) | <https://github.com/skyzh/skyzh.github.io> | MIT |
 | [Athul Cyriac Ajay (GitHub@athul)](https://github.com/athul/) | <https://github.com/athul/archie> | MIT |
-| [Kevin CHEN (GitHub@KevinZonda)][https://github.com/KevinZonda] | <https://kevinzonda.com> | N/A |
+| [Kevin CHEN (GitHub@KevinZonda)](https://github.com/KevinZonda) | <https://kevinzonda.com> | N/A |
