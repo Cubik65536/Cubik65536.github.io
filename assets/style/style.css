@@ -206,6 +206,10 @@ a.link {
     text-decoration: none;
 }
 
+a.badge {
+  text-decoration: none;
+}
+
 a.link:hover {
     background-color: black;
     color: #fff;
